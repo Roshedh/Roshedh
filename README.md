@@ -1,5 +1,9 @@
 # 💫 About Me:
-web developer<br>ML developer<br>Designer<br>Photographer<br>videographer<br>content creation
+Passionate AI Engineer and Machine Learning Developer focused on building intelligent, real-world solutions through modern technology and innovation. Skilled in Full-Stack Web Development, creating responsive and user-centric digital experiences with clean and scalable design principles.
+
+Creative UI/UX Designer with an eye for visual storytelling, combining aesthetics with functionality to deliver impactful user experiences. Enthusiastic Photographer and Videographer experienced in capturing compelling visuals and producing engaging multimedia content.
+
+Dedicated to Content Creation, technology-driven creativity, and continuous learning across AI, software development, and digital media. Passionate about transforming ideas into meaningful products and experiences through innovation, design, and storytelling.
 
 
 ## 🌐 Socials:
